@@ -20,8 +20,8 @@
 
 
 ## 📌기간 : 2023.07.17 ~ 2023.08.01 , 2023.08.21 ~ 2023.08.30 
-<img src="https://github.com/5seokjin/moya100/assets/131237772/4ae59f3d-691b-416e-8da3-63cb93fe8a06" width="800" height="300"/><br><br>
-<img src="https://github.com/5seokjin/moya100/assets/131237772/2956b100-2158-4b69-85cb-e6482876f90b" width="800" height="300"/><br>
+<img src="https://github.com/ProjectGroup5/YeoginEottae/assets/131237772/88a3818d-8234-4980-a721-c2cd2ca72b9f" width="800" height="300"/><br><br>
+<img src="https://github.com/ProjectGroup5/YeoginEottae/assets/131237772/1e26e5fb-0c2f-4d9a-9276-917f3244774c" width="800" height="300"/><br>
 
 # 📌 팀 소개
 <img src="https://github.com/ProjectGroup5/YeoginEottae/assets/131237772/97ee233e-3c70-49d3-b54c-5e20aa89863c" width="800" height="300"/><br>
