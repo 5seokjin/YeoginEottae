@@ -175,7 +175,7 @@
     • 페이징,검색기능 <br>
     <br><br>
     <li><h3>관리자-월 별 예약통계</h3>
-    <img src="https://github.com/5seokjin/moya100/assets/131237772/2e60aec1-c90c-4892-8c3f-101e5881e46d" width="800" height="450"/><br>
+    <img src="https://github.com/5seokjin/moya100/assets/131237772/2e60aec1-c90c-4892-8c3f-101e5881e46d" width="800" height="400"/><br>
     • 룸 종류별 예약횟수 조회 <br>
     • 옵션 종류별 예약횟수 조회 <br>    
     <br><br>
