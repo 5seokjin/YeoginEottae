@@ -103,7 +103,7 @@
     • 페이징 기능
     <br><br>
     <li><h3>파티룸 상세 보기</h3>
-    <img src="\https://github.com/ProjectGroup5/YeoginEottae/assets/131237772/d5578fd7-20e3-4c2e-8484-8c5a2eadf52f"/><br>
+    <img src="https://github.com/ProjectGroup5/YeoginEottae/assets/131237772/d5578fd7-20e3-4c2e-8484-8c5a2eadf52f"/><br>
     • 파티룸 사진 및 정보 조회<br>
     • AJAX를 이용한 비동기 찜하기<br>
     • 해당 파티룸 포토리뷰 조회(사진 클릭 시 확대)<br>
