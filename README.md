@@ -72,9 +72,11 @@
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white"/>
 
 </br>
-## 📌 프로젝트 상세
+
+## 📌 구성도
 <img src="https://github.com/ProjectGroup5/YeoginEottae/assets/131237772/116065d7-7747-4dba-a6ee-bee5103d129a" width="800" height="450"/><br>
 </br>
+
 ## 📌 프로젝트 상세
 <ul>
     <li><h3>메인화면</h3>
