@@ -73,7 +73,7 @@
 
 </br>
 ## 📌 프로젝트 상세
-<img src="https://github.com/ProjectGroup5/YeoginEottae/assets/131237772/116065d7-7747-4dba-a6ee-bee5103d129a" width="800" height="300"/><br>
+<img src="https://github.com/ProjectGroup5/YeoginEottae/assets/131237772/116065d7-7747-4dba-a6ee-bee5103d129a" width="800" height="450"/><br>
 </br>
 ## 📌 프로젝트 상세
 <ul>
