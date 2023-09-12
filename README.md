@@ -101,9 +101,9 @@
     <br><br>
     <li><h3>파티룸 조회</h3>
     <img src="https://github.com/ProjectGroup5/YeoginEottae/assets/131237772/a1e354e3-0288-4303-aa60-4eac7f4c8b04" width="800" height="450"/><br>
-    • 파티룸 전체 조회 가능<br>
-    • 파티룸 종류 별 조회 가능<br>
-    • 파티룹 침대,노래방 유무 검색 가능<br>
+    • 파티룸 전체 조회 기능<br>
+    • 파티룸 종류 별 조회 기능<br>
+    • 파티룸 침대,노래방 유무 검색 기능<br>
     • 페이징 기능
     <br><br>
     <li><h3>파티룸 상세 보기</h3>
