@@ -151,7 +151,7 @@
     <br><br>
     <li><h3>포토리뷰</h3>
     <img src="https://github.com/ProjectGroup5/YeoginEottae/assets/131237772/d3eeba12-fca5-413f-a2ba-26d5b22326e6" width="800" height="300"/><br>
-    • 포토리뷰 조회/입력/변경/삭제 <br>
+    • 포토리뷰 CRUD <br>
     • 파일 업로드 기능(실시간 출력)<br>
     • 페이징,검색기능 <br>
     <br><br>
